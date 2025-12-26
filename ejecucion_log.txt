@@ -1,0 +1,115 @@
+2025-12-25 14:22:52,538 - INFO - --- Iniciando proceso de actualización semanal ---
+2025-12-25 14:22:52,538 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Gonzalo.ipynb
+2025-12-25 14:22:52,539 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Gonzalo.ipynb
+2025-12-25 14:22:52,539 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 14:22:59,388 - INFO - Executing notebook with kernel: python3
+2025-12-25 14:26:58,531 - INFO - ÉXITO: Conexion_Base_Gonzalo.ipynb ejecutado correctamente.
+2025-12-25 14:26:58,531 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Queseria.ipynb
+2025-12-25 14:26:58,531 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Queseria.ipynb
+2025-12-25 14:26:58,531 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 14:26:59,826 - INFO - Executing notebook with kernel: python3
+2025-12-25 14:35:18,598 - INFO - ÉXITO: Conexion_Base_Queseria.ipynb ejecutado correctamente.
+2025-12-25 14:35:18,598 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Fray-Pedro.ipynb
+2025-12-25 14:35:18,598 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Fray-Pedro.ipynb
+2025-12-25 14:35:18,598 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 14:35:19,888 - INFO - Executing notebook with kernel: python3
+2025-12-25 14:37:13,389 - INFO - ÉXITO: Conexion_Base_Fray-Pedro.ipynb ejecutado correctamente.
+2025-12-25 14:37:13,389 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Nueva.ipynb
+2025-12-25 14:37:13,389 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Nueva.ipynb
+2025-12-25 14:37:13,389 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 14:37:14,656 - INFO - Executing notebook with kernel: python3
+2025-12-25 14:39:41,677 - INFO - ÉXITO: Conexion_Base_Nueva.ipynb ejecutado correctamente.
+2025-12-25 14:39:41,677 - INFO - --- Pipeline finalizado con éxito total ---
+2025-12-25 14:53:32,462 - INFO - --- Iniciando proceso de actualización semanal ---
+2025-12-25 14:53:32,462 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Gonzalo.ipynb
+2025-12-25 14:53:32,462 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Gonzalo.ipynb
+2025-12-25 14:53:32,463 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 14:53:35,403 - INFO - Executing notebook with kernel: python3
+2025-12-25 14:56:56,131 - INFO - ÉXITO: Conexion_Base_Gonzalo.ipynb ejecutado correctamente.
+2025-12-25 14:56:56,131 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Queseria.ipynb
+2025-12-25 14:56:56,131 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Queseria.ipynb
+2025-12-25 14:56:56,131 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 14:56:57,419 - INFO - Executing notebook with kernel: python3
+2025-12-25 15:05:17,931 - INFO - ÉXITO: Conexion_Base_Queseria.ipynb ejecutado correctamente.
+2025-12-25 15:05:17,932 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Fray-Pedro.ipynb
+2025-12-25 15:05:17,932 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Fray-Pedro.ipynb
+2025-12-25 15:05:17,932 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 15:05:19,231 - INFO - Executing notebook with kernel: python3
+2025-12-25 15:07:12,567 - INFO - ÉXITO: Conexion_Base_Fray-Pedro.ipynb ejecutado correctamente.
+2025-12-25 15:07:12,567 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Nueva.ipynb
+2025-12-25 15:07:12,567 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Nueva.ipynb
+2025-12-25 15:07:12,567 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 15:07:13,867 - INFO - Executing notebook with kernel: python3
+2025-12-25 15:09:40,027 - INFO - ÉXITO: Conexion_Base_Nueva.ipynb ejecutado correctamente.
+2025-12-25 15:09:40,027 - INFO - --- Pipeline finalizado con éxito total ---
+2025-12-25 15:24:40,295 - INFO - --- Iniciando proceso de actualización semanal ---
+2025-12-25 15:24:40,295 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Gonzalo.ipynb
+2025-12-25 15:24:40,295 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Gonzalo.ipynb
+2025-12-25 15:24:40,295 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 15:24:42,054 - INFO - Executing notebook with kernel: python3
+2025-12-25 15:28:06,045 - INFO - ÉXITO: Conexion_Base_Gonzalo.ipynb ejecutado correctamente.
+2025-12-25 15:28:06,045 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Queseria.ipynb
+2025-12-25 15:28:06,045 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Queseria.ipynb
+2025-12-25 15:28:06,045 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 15:28:07,327 - INFO - Executing notebook with kernel: python3
+2025-12-25 15:36:19,426 - INFO - ÉXITO: Conexion_Base_Queseria.ipynb ejecutado correctamente.
+2025-12-25 15:36:19,426 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Fray-Pedro.ipynb
+2025-12-25 15:36:19,426 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Fray-Pedro.ipynb
+2025-12-25 15:36:19,426 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 15:36:20,704 - INFO - Executing notebook with kernel: python3
+2025-12-25 15:38:14,342 - INFO - ÉXITO: Conexion_Base_Fray-Pedro.ipynb ejecutado correctamente.
+2025-12-25 15:38:14,342 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Nueva.ipynb
+2025-12-25 15:38:14,342 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Nueva.ipynb
+2025-12-25 15:38:14,342 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 15:38:15,623 - INFO - Executing notebook with kernel: python3
+2025-12-25 15:40:39,498 - INFO - ÉXITO: Conexion_Base_Nueva.ipynb ejecutado correctamente.
+2025-12-25 15:40:39,498 - INFO - --- Pipeline finalizado con éxito total ---
+2025-12-25 15:48:24,416 - INFO - --- Iniciando proceso de actualización semanal ---
+2025-12-25 15:48:24,417 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Gonzalo.ipynb
+2025-12-25 15:48:24,417 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Gonzalo.ipynb
+2025-12-25 15:48:24,417 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 15:48:26,987 - INFO - Executing notebook with kernel: python3
+2025-12-25 15:48:51,514 - INFO - --- Iniciando proceso de actualización semanal ---
+2025-12-25 15:48:51,515 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Gonzalo.ipynb
+2025-12-25 15:48:51,515 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Gonzalo.ipynb
+2025-12-25 15:48:51,515 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 15:48:53,206 - INFO - Executing notebook with kernel: python3
+2025-12-25 15:52:21,811 - INFO - ÉXITO: Conexion_Base_Gonzalo.ipynb ejecutado correctamente.
+2025-12-25 15:52:21,811 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Queseria.ipynb
+2025-12-25 15:52:21,811 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Queseria.ipynb
+2025-12-25 15:52:21,811 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 15:52:23,099 - INFO - Executing notebook with kernel: python3
+2025-12-25 16:00:39,081 - INFO - ÉXITO: Conexion_Base_Queseria.ipynb ejecutado correctamente.
+2025-12-25 16:00:39,081 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Fray-Pedro.ipynb
+2025-12-25 16:00:39,081 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Fray-Pedro.ipynb
+2025-12-25 16:00:39,081 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 16:00:40,363 - INFO - Executing notebook with kernel: python3
+2025-12-25 16:02:36,420 - INFO - ÉXITO: Conexion_Base_Fray-Pedro.ipynb ejecutado correctamente.
+2025-12-25 16:02:36,420 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Nueva.ipynb
+2025-12-25 16:02:36,420 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Nueva.ipynb
+2025-12-25 16:02:36,420 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-25 16:02:37,711 - INFO - Executing notebook with kernel: python3
+2025-12-25 16:05:02,391 - INFO - ÉXITO: Conexion_Base_Nueva.ipynb ejecutado correctamente.
+2025-12-25 16:05:02,391 - INFO - --- Pipeline finalizado con éxito total ---
+2025-12-26 10:18:03,868 - INFO - --- Iniciando proceso de actualización semanal ---
+2025-12-26 10:18:03,868 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Gonzalo.ipynb
+2025-12-26 10:18:03,868 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Gonzalo.ipynb
+2025-12-26 10:18:03,868 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-26 10:18:07,233 - INFO - Executing notebook with kernel: python3
+2025-12-26 10:21:19,170 - INFO - ÉXITO: Conexion_Base_Gonzalo.ipynb ejecutado correctamente.
+2025-12-26 10:21:19,170 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Queseria.ipynb
+2025-12-26 10:21:19,170 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Queseria.ipynb
+2025-12-26 10:21:19,170 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-26 10:21:20,451 - INFO - Executing notebook with kernel: python3
+2025-12-26 10:31:18,959 - INFO - ÉXITO: Conexion_Base_Queseria.ipynb ejecutado correctamente.
+2025-12-26 10:31:18,959 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Fray-Pedro.ipynb
+2025-12-26 10:31:18,959 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Fray-Pedro.ipynb
+2025-12-26 10:31:18,959 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-26 10:31:20,224 - INFO - Executing notebook with kernel: python3
+2025-12-26 10:33:10,341 - INFO - ÉXITO: Conexion_Base_Fray-Pedro.ipynb ejecutado correctamente.
+2025-12-26 10:33:10,341 - INFO - Input Notebook:  C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Conexion_Base_Nueva.ipynb
+2025-12-26 10:33:10,341 - INFO - Output Notebook: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion\Ejecutado_Conexion_Base_Nueva.ipynb
+2025-12-26 10:33:10,341 - INFO - Working directory: C:\Users\JOSE\Downloads\Streamlit App\lectura_informacion
+2025-12-26 10:33:11,622 - INFO - Executing notebook with kernel: python3
+2025-12-26 10:35:35,355 - INFO - ÉXITO: Conexion_Base_Nueva.ipynb ejecutado correctamente.
+2025-12-26 10:35:35,355 - INFO - --- Pipeline finalizado con éxito total ---
