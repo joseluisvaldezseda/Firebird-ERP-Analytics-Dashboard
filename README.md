@@ -1,5 +1,7 @@
 # Microsip Multi-Branch BI: Data Pipeline & Dashboard
 
+🔗 **[Live Demo](https://firebird-erp-analytics-dashboard.streamlit.app/)**
+
 ## Overview
 This project is an end-to-end Business Intelligence solution that extracts, processes, and visualizes sales data from 4 different retail branches using Microsip ERP (Firebird SQL). It features an automated data pipeline and a high-performance interactive dashboard.
 
